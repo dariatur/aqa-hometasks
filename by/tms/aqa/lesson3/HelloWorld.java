@@ -1,4 +1,4 @@
-package by.tms.lesson3;
+package by.tms.aqa.lesson3;
 
 public class HelloWorld {
 
